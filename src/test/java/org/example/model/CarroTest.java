@@ -1,5 +1,6 @@
-package org.example;
+package org.example.model;
 
+import org.example.model.Carro;
 import org.junit.Assert;
 import org.junit.Test;
 
